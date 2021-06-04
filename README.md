@@ -11,6 +11,14 @@ Ayudantia 3 --> https://youtu.be/GUyo8Nye4IA
 
 Ayudantia 4 --> https://youtu.be/j1Y46W_zxAc
 
+Ayudantia 5 --> https://youtu.be/R_syNSz8G-Y
+
+Ayudantia 6 --> https://youtu.be/8utVz6IeL_4
+
+Ayudantia 8 --> https://youtu.be/o95FOPyAeqg
+
+Ayudantia 9 --> https://youtu.be/8J4jFFTXZbc
+
 # Referencias que podrian ser utiles
 
 RMarkdown Cookbook ---> https://bookdown.org/yihui/rmarkdown-cookbook 
